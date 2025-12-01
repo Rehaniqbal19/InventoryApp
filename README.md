@@ -1,5 +1,8 @@
 # Inventory Management App – Power Apps & Dataverse
 
+## App Demo:
+https://1drv.ms/v/c/2bbcc47d40116a6a/IQChkMWlvwTBR6-Y8z5fnzBKAT_yu5KPAbh7IedejCr7qFE?e=ugvPwS
+
 ## Overview
 
 This project is a simple **Inventory Management System** built on the Microsoft Power Platform.  
@@ -138,7 +141,6 @@ Building a functional Power Apps canvas app with:
 
 This project shows on a basic level how quickly an inventory tracking solution can be delivered using the Microsoft Power Platform, without traditional custom development.
 
-## App Demo is as follows:
-https://1drv.ms/v/c/2bbcc47d40116a6a/IQChkMWlvwTBR6-Y8z5fnzBKAT_yu5KPAbh7IedejCr7qFE?e=ugvPwS
+
 
   
