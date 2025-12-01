@@ -1,7 +1,7 @@
 # Inventory Management App – Power Apps & Dataverse
 
 ## App Demo:
-https://1drv.ms/v/c/2bbcc47d40116a6a/IQChkMWlvwTBR6-Y8z5fnzBKAT_yu5KPAbh7IedejCr7qFE?e=ugvPwS
+![https://1drv.ms/v/c/2bbcc47d40116a6a/IQChkMWlvwTBR6-Y8z5fnzBKAT_yu5KPAbh7IedejCr7qFE?e=ugvPwS](assets/demo.gif)
 
 ## Overview
 
