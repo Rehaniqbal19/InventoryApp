@@ -136,6 +136,6 @@ Building a functional Power Apps canvas app with:
 
 ## Conclusion
 
-This project shows how quickly an inventory tracking solution can be delivered using the Microsoft Power Platform, without traditional custom development. The same pattern can be extended to support more advanced features such as role-based security, multiple warehouses, barcode scanning, and integration with reporting tools like Power BI.
+This project shows on a basic level how quickly an inventory tracking solution can be delivered using the Microsoft Power Platform, without traditional custom development.
 
   
